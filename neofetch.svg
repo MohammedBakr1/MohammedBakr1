@@ -37,7 +37,7 @@
 
   <!-- Tools -->
   <text x="222" y="178" font-family="'Courier New', Courier, monospace" font-size="13" fill="#58a6ff" font-weight="bold">Tools</text>
-  <text x="352" y="178" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e6edf3">Git · GitHub · Linux · Neovim · Docker · GDG</text>
+  <text x="352" y="178" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e6edf3">Git · GitHub · Linux · Neovim · Docker</text>
 
   <!-- Interests -->
   <text x="222" y="198" font-family="'Courier New', Courier, monospace" font-size="13" fill="#58a6ff" font-weight="bold">Interests</text>
