@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 310" width="800" height="310">
-  <rect width="800" height="310" rx="12" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="800" height="320">
+  <rect width="800" height="320" rx="12" fill="#0d1117"/>
 
   <!-- M letter - pixel blocks -->
   <rect x="40" y="30" width="18" height="120" fill="#58a6ff"/>
@@ -13,7 +13,7 @@
   <rect x="112" y="84" width="18" height="66" fill="#58a6ff"/>
 
   <!-- vertical divider -->
-  <line x1="200" y1="20" x2="200" y2="290" stroke="#30363d" stroke-width="1"/>
+  <line x1="200" y1="20" x2="200" y2="305" stroke="#30363d" stroke-width="1"/>
 
   <!-- username -->
   <text x="222" y="52" font-family="'Courier New', Courier, monospace" font-size="16" fill="#58a6ff" font-weight="bold">MohammedBakr1</text>
@@ -35,32 +35,32 @@
   <text x="222" y="158" font-family="'Courier New', Courier, monospace" font-size="13" fill="#58a6ff" font-weight="bold">Languages</text>
   <text x="352" y="158" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f0883e">C · C++ · Rust · Java · Assembly · Haskell</text>
 
+  <!-- Tools -->
+  <text x="222" y="178" font-family="'Courier New', Courier, monospace" font-size="13" fill="#58a6ff" font-weight="bold">Tools</text>
+  <text x="352" y="178" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e6edf3">Git · GitHub · Linux · Neovim · Docker · GDG</text>
+
   <!-- Interests -->
-  <text x="222" y="180" font-family="'Courier New', Courier, monospace" font-size="13" fill="#58a6ff" font-weight="bold">Interests</text>
-  <text x="352" y="180" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e6edf3">Comp. Architecture · AI · Open Source</text>
+  <text x="222" y="198" font-family="'Courier New', Courier, monospace" font-size="13" fill="#58a6ff" font-weight="bold">Interests</text>
+  <text x="352" y="198" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e6edf3">Comp. Architecture · AI · Open Source</text>
+
+  <!-- Focus -->
+  <text x="222" y="218" font-family="'Courier New', Courier, monospace" font-size="13" fill="#58a6ff" font-weight="bold">Focus</text>
+  <text x="352" y="218" font-family="'Courier New', Courier, monospace" font-size="13" fill="#bb9af7">Compilers · OS Development · Low-level Systems</text>
 
   <!-- divider 2 -->
-  <text x="222" y="200" font-family="'Courier New', Courier, monospace" font-size="12" fill="#58a6ff" opacity="0.5">──────────────────────────────────────────</text>
+  <text x="222" y="238" font-family="'Courier New', Courier, monospace" font-size="12" fill="#58a6ff" opacity="0.5">──────────────────────────────────────────</text>
 
-  <!-- Commits -->
-  <text x="222" y="222" font-family="'Courier New', Courier, monospace" font-size="13" fill="#58a6ff" font-weight="bold">Commits</text>
-  <text x="352" y="222" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f0883e">github-readme-stats ↓</text>
-
-  <!-- Stars -->
-  <text x="222" y="242" font-family="'Courier New', Courier, monospace" font-size="13" fill="#58a6ff" font-weight="bold">Stars</text>
-  <text x="352" y="242" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f0883e">github-readme-stats ↓</text>
-
-  <!-- Pull Requests -->
-  <text x="222" y="262" font-family="'Courier New', Courier, monospace" font-size="13" fill="#58a6ff" font-weight="bold">Pull Requests</text>
-  <text x="352" y="262" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f0883e">github-readme-stats ↓</text>
+  <!-- Projects placeholder -->
+  <text x="222" y="260" font-family="'Courier New', Courier, monospace" font-size="13" fill="#58a6ff" font-weight="bold">Projects</text>
+  <text x="352" y="260" font-family="'Courier New', Courier, monospace" font-size="13" fill="#3d444d">coming soon...</text>
 
   <!-- color palette -->
-  <rect x="222" y="282" width="16" height="14" rx="2" fill="#1a1b26"/>
-  <rect x="242" y="282" width="16" height="14" rx="2" fill="#f7768e"/>
-  <rect x="262" y="282" width="16" height="14" rx="2" fill="#9ece6a"/>
-  <rect x="282" y="282" width="16" height="14" rx="2" fill="#e0af68"/>
-  <rect x="302" y="282" width="16" height="14" rx="2" fill="#7aa2f7"/>
-  <rect x="322" y="282" width="16" height="14" rx="2" fill="#bb9af7"/>
-  <rect x="342" y="282" width="16" height="14" rx="2" fill="#7dcfff"/>
-  <rect x="362" y="282" width="16" height="14" rx="2" fill="#a9b1d6"/>
+  <rect x="222" y="278" width="16" height="14" rx="2" fill="#1a1b26"/>
+  <rect x="242" y="278" width="16" height="14" rx="2" fill="#f7768e"/>
+  <rect x="262" y="278" width="16" height="14" rx="2" fill="#9ece6a"/>
+  <rect x="282" y="278" width="16" height="14" rx="2" fill="#e0af68"/>
+  <rect x="302" y="278" width="16" height="14" rx="2" fill="#7aa2f7"/>
+  <rect x="322" y="278" width="16" height="14" rx="2" fill="#bb9af7"/>
+  <rect x="342" y="278" width="16" height="14" rx="2" fill="#7dcfff"/>
+  <rect x="362" y="278" width="16" height="14" rx="2" fill="#a9b1d6"/>
 </svg>
