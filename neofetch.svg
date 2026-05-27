@@ -52,7 +52,7 @@
 
   <!-- Projects placeholder -->
   <text x="222" y="260" font-family="'Courier New', Courier, monospace" font-size="13" fill="#58a6ff" font-weight="bold">Projects</text>
-  <text x="352" y="260" font-family="'Courier New', Courier, monospace" font-size="13" fill="#3d444d">coming soon...</text>
+  <text x="352" y="260" font-family="'Courier New', Courier, monospace" font-size="13" fill="#3d444d">...</text>
 
   <!-- color palette -->
   <rect x="222" y="278" width="16" height="14" rx="2" fill="#1a1b26"/>
